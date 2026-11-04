@@ -54,6 +54,6 @@ strings so validators can reach an exact match.
 
 ## Deployment
 
-- Network: GenLayer Testnet Bradbury
+- Network: GenLayer Studionet (Chain ID 61999)
 - Contract address: 0x5ff2fD96763298B7Fac7108439A075aD02e07921
-- Deploy transaction: https://explorer-bradbury.genlayer.com/tx/0x...
+- Deploy transaction: https://explorer-studio.genlayer.com/tx/<transaction hash>
