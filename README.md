@@ -54,6 +54,6 @@ strings so validators can reach an exact match.
 
 ## Deployment
 
-- Network: GenLayer testnet / Studio
-- Contract address: `<fill in after deploy>`
-- Deploy transaction: `<fill in after deploy>`
+- Network: GenLayer Testnet Bradbury
+- Contract address: 0x...
+- Deploy transaction: https://explorer-bradbury.genlayer.com/tx/0x...
