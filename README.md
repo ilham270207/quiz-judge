@@ -56,4 +56,8 @@ strings so validators can reach an exact match.
 
 - Network: GenLayer Studionet (Chain ID 61999)
 - Contract address: 0x5ff2fD96763298B7Fac7108439A075aD02e07921
-- Deploy transaction: https://explorer-studio.genlayer.com/tx/<transaction hash>
+- Deploy transaction: https://explorer-studio.genlayer.com/tx/0x60abf4a4b24f7837d5f45ea5951976fa071e0b404618439710a2b6eddccdcc97
+
+### Test transactions
+- add_question: https://explorer-studio.genlayer.com/tx/0x75c8f7c143e1247802988e9fd62b3c01176474dd1dc5b001a5f934b06821e695
+- submit_answer (valid answer, scored 1): https://explorer-studio.genlayer.com/tx/0x4a6afb9f4fe0b57eeb376e6e23cb2a1edcc997b2d3c355de24f800afd6bb3410
